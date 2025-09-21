@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-pip install plotly
 import plotly.express as px
 import os
 from groq import Groq
